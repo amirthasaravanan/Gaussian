@@ -16,11 +16,11 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Program:
 ```
-/*
+
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by: AMIRTHA VARSHINI M
 RegisterNumber: 24901093
-*/
+
 ```
 
 ```
@@ -56,7 +56,7 @@ for i in range(n):
 ## Output:
 ![gaussian elimination]()
 
-![Screenshot (2016)](https://github.com/user-attachments/assets/f89a04d7-92b1-4f94-bfcb-c466d71630f8)
+![ED EX 6](https://github.com/user-attachments/assets/92fabe0d-706b-4cf0-bd20-08a0f6abd5ab)
 
 
 
